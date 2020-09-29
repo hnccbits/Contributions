@@ -26,6 +26,5 @@ Helped HnCC become Codechef Chapter
 
 Helped HnCC in finding man resources i.e. new members of the club
 
-Organized the first ever Hackathon in BIT Sindri aka 
-###Hackatron
+Organized the first ever Hackathon in BIT Sindri aka Hackatron. One of the most successful events of BIT.
 
