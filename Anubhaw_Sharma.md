@@ -6,6 +6,6 @@
 ##### 3. Top 3 in COVIDTHON'20 ,an online hackathon organised by goverment of Jharkhand,had participated along with ShivamAnand(Mech 2k18) and Abhay(IT 2K18).
 ##### 4. Along with ShivamAnand(Mech 2k18) made an android app "Remove Spam App" which had around 20k+ downloads in playstore.
 ##### 5. Made an android app for controlling Arduino,over bluetooth.
-##### 6. Currently working on RFCOMM(radio frequency communication) in Arduino, and different sensors used in industrial IoT.
+##### 6. Currently working Node MCU, and different sensors used in industrial IoT.
 
 #####  * Working consistently to contribute more, stay tuned 😀...
