@@ -6,11 +6,13 @@
 ## 2020
 * Started CP with Java
 * Social handles, Content writing & Play Console management
+* Participated in Hactoberfest, October 2020 and wrote my experience blog site
 * Enrolled in the induction program and led that session on “Getting Started with Android Development 
 * Conducted two Android Development Workshop
 * Documented Git/Github cheat sheet for the session in Hactoberfest and handed to Anjani Sir 
 * Documented “How to install Linux Guide” and pushed it to the club repo
 * Participated in Hackathon(Hack With CW), the project repo is forked from the club’s GitHub handle
+* Participated in MLH, one week long hackathon
 
 ## 2021:-
 * Prepared the rule book for the hackathon(which is not conducted yet)
