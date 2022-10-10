@@ -6,6 +6,5 @@
 4. Participated actively in the linux installation drive 2022.
 5. Helped juniors get familiar with linux and it's basic usage as a primary os.
 6. Mentored batch of 2k21 in acpects such as Competitive programming, Linux, and Machine Learning.
-7. Helped in writing some of the email-templates like rejection, acceptance.
-8. Lead the Content team of HnCC batch 2k20.
-9. Helped in preparing the content of official brochure of HnCC.
+7. Lead the Content team of HnCC batch 2k20.
+8. Helped in preparing the content of official brochure of HnCC.
