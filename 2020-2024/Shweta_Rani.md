@@ -3,6 +3,7 @@
 ~ Contacted juniors for the induction process. Helped interested candidates to clarify any doubts.
 ~ Shortlisted the candidates for Screening.
 ~ Maintained the junior's Progress Report.
+~ Meet with juniors for their progress report and guidance along with my batchmates.
 ~ Manage Social Media Handles of GDSC.
 ~ Helped in organizing a webinar on Hand-on ML with a TensorFlow session of GDSC.
 ~ Motivated and helped junior's contacted during Linux drive installation.
