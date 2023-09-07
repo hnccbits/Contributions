@@ -1,4 +1,4 @@
-## Shail Kumari (Metallurgy, 2021-2015)
+## Shail Kumari (Metallurgy, 2021-2025)
 ### Contributions:
 ### was one of the coordinators for Ptthon in codecamp,  maked notes ,solved student's doubts and checked answer sheets
 ### managed codecamp, bought students to and from the hostels everyday
