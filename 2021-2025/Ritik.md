@@ -1,0 +1,11 @@
+
+- Done Problem Setting in BITCODE.
+- Prepared Notes and presentation on C++ in CodeCamp.
+- Was one of the coordinators for C++ in CodeCamp, solved students' doubts, and checked answer sheets.
+- Managed CodeCamp, brought students to and from the hostels every day.
+- Actively Participated in Preparation for Hack-O-Verse and managed the contest capture the flag.
+- Done Screening of Juniors for Induction along with other Teammates in both phases of inductions.
+- Actively participated in the Linux installation drive and volunteered for the same.
+- Helped manage the HnCC Twitter.
+- I attended almost all the meetings both online and offline.
+- I worked in promoting (promoted our club hoodies) and marketing of all the events in all the branches of the batch and the juniors' hostels.
