@@ -1,0 +1,14 @@
+- Led and successfully conducted BIT CODE June, July, and August Rounds.
+- Managed the Twitter handle of Hncc.
+- Played a role in increasing participation in Designatello'22.
+- Created the poster for Chatth Puja'22.
+- Produced the Hncc orientation video for the 2k22 batch.
+- Designed a Happy New Year motion graphics poster.
+- Monitored the 36 Hour Hackathon.
+- Attracted participants for the 36 Hour Hackathon.
+- Oversaw Gamathon and Bit Code in Hackoverse.
+- Contributed to the successful completion of Uxathon.
+- Managed the sponsor video for Hackoverse.
+- Supervised the Designatello'23 Teaser video.
+- Conducted screenings and personal interviews (PI) for the 2k22 batch.
+- Designed certificates for BIT CODE July round.
