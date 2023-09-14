@@ -21,5 +21,6 @@
 18. Edited unlocking placement video by Shailesh anand sir
 19. Supervised hncc codecamp video
 20. Promoted all events in all the branches of our batch
+21. Also handles the facebook account of HnCC
 
 
